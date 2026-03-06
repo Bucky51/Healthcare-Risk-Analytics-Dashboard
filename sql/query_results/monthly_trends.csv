@@ -1,0 +1,61 @@
+Visit_Month,Diagnosis,Case_Count
+2024-12,Healthy,360
+2024-12,Diabetes,343
+2024-12,Asthma,335
+2024-12,"Heart Disease",324
+2024-12,Hypertension,321
+2024-11,Asthma,329
+2024-11,"Heart Disease",321
+2024-11,Healthy,319
+2024-11,Diabetes,313
+2024-11,Hypertension,298
+2024-10,Diabetes,364
+2024-10,"Heart Disease",361
+2024-10,Asthma,356
+2024-10,Healthy,328
+2024-10,Hypertension,314
+2024-09,Diabetes,361
+2024-09,Healthy,349
+2024-09,"Heart Disease",338
+2024-09,Hypertension,312
+2024-09,Asthma,311
+2024-08,Hypertension,355
+2024-08,Healthy,351
+2024-08,Diabetes,349
+2024-08,Asthma,325
+2024-08,"Heart Disease",310
+2024-07,Asthma,362
+2024-07,"Heart Disease",337
+2024-07,Healthy,325
+2024-07,Diabetes,324
+2024-07,Hypertension,313
+2024-06,Asthma,382
+2024-06,Hypertension,355
+2024-06,"Heart Disease",325
+2024-06,Diabetes,322
+2024-06,Healthy,312
+2024-05,Healthy,350
+2024-05,Hypertension,346
+2024-05,"Heart Disease",338
+2024-05,Asthma,333
+2024-05,Diabetes,292
+2024-04,Hypertension,366
+2024-04,Diabetes,343
+2024-04,Healthy,339
+2024-04,"Heart Disease",331
+2024-04,Asthma,316
+2024-03,Hypertension,338
+2024-03,Asthma,337
+2024-03,"Heart Disease",327
+2024-03,Diabetes,320
+2024-03,Healthy,296
+2024-02,Hypertension,351
+2024-02,Healthy,346
+2024-02,Asthma,344
+2024-02,Diabetes,343
+2024-02,"Heart Disease",316
+2024-01,Hypertension,337
+2024-01,Healthy,334
+2024-01,Asthma,328
+2024-01,Diabetes,322
+2024-01,"Heart Disease",303
