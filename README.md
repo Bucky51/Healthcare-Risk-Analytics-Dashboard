@@ -62,10 +62,3 @@ GitHub -  Jupyter -  Healthcare Analytics
 ---
 
 **👨‍💼 Recruiter-friendly • 📱 Mobile-optimized • 🔗 Live demo ready!**
-
-<<<<<<< HEAD
-⭐ **Star this repo** • 🔄 **Watch for updates**
-=======
-⭐ **Star this repo** • 🔄 **Watch for updates**
-```
->>>>>>> 4332bdf2f98baeb67e103d6635604adb942e742c
