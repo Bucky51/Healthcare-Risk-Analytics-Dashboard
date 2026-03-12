@@ -18,7 +18,7 @@ Analyze 20K multi-hospital patient records to identify chronic disease risk patt
 ## 📱 Dashboard Preview (3 Pages)
 | Executive Summary | Clinical Insights | Monthly Trends |
 |------------------|------------------|---------------|
-| ![Page 1](docs\screenshots\Summary.png) | ![Page 2](docs\screenshots\clinical.png) | ![Page 3](docs\screenshots\Mothly.png) |
+| ![Page 1](docs/screenshots/Summary.png) | ![Page 2](docs/screenshots/clinical.png) | ![Page 3](docs/screenshots/Mothly.png) |
 
 ## 🚀 Key Features
 ```
