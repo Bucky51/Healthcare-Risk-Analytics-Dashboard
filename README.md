@@ -60,5 +60,3 @@ GitHub -  Jupyter -  Healthcare Analytics
 
 
 ---
-
-**👨‍💼 Recruiter-friendly • 📱 Mobile-optimized • 🔗 Live demo ready!**
